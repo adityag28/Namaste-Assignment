@@ -1,8 +1,19 @@
+/* index.css */
 .header {
-  background-color: burlywood;
-  color: brown;
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  padding: 10px 20px;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #282c34;
+  color: white;
+  font-size: 24px;
+}
+
+input {
+  padding: 5px;
+  font-size: 18px;
+}
+
+.title {
+  text-align: center;
 }

@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { RiReactjsLine } from "react-icons/ri";
 import { FaUser } from "react-icons/fa";
+import "./style.css"; // Ensure this is present
 
 // //Nested structure using React.createElement()
 // const heading = React.createElement("div", { className: "title" }, [
